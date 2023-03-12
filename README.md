@@ -1,24 +1,28 @@
 # Website Template 網站模板 14
 
-***
-
-- 預覽: [Github.io](https://pardnchiu.github.io/website-template-14/)
-- 源碼: [Github.com](https://github.com/pardnchiu/website-template-14/)
-- 授權: [MIT LICENSE](https://github.com/pardnchiu/website-template-14/blob/main/LICENSE)
-- 開發: [Pardn Chiu 邱敬幃](https://pardnchiu.github.io/)
-
-***
-
-- 工具: Html, Css/Sass, Javascript
-- 圖示: [Font Awesome 6](https://fontawesome.com/v6/search)
-- 圖片: [Freepik](https://www.freepik.com)
+- [Github.io](https://pardnchiu.github.io/website-template-14/)
+- [Github.com](https://github.com/pardnchiu/website-template-14/)
+- [MIT LICENSE](./LICENSE)
+- Html, Css/Sass, Javascript
+- [Font Awesome 6](https://fontawesome.com/v6/search)
+- [Freepik](https://www.freepik.com)
 
 ***
 
-| index |
-|---|
-| ![index](./image/index.jpg) |
+### Pardn Chiu 邱敬幃
+
+- [Joball](https://joball.tw/@pardnltd)
+- [Linkedin](https://www.linkedin.com/in/pardnchiu/)
+- [Line@](http://lin.ee/Gtcb5kc)
 
 ***
 
-Copyright (c) 2023 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
+| Preview |
+| --- |
+| ![Website Template 網站模板 14](./image/index.jpg) |
+
+***
+
+Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
+
+
